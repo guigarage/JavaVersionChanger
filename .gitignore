@@ -11,30 +11,8 @@
 
 .project
 
-.settings/org.eclipse.core.resources.prefs
+.settings
 
-.settings/org.eclipse.jdt.core.prefs
+bin
 
-.settings/org.eclipse.m2e.core.prefs
-
-bin/.gitignore
-
-bin/.settings/org.eclipse.core.resources.prefs
-
-bin/.settings/org.eclipse.m2e.core.prefs
-
-bin/README.md
-
-bin/pom.xml
-
-bin/target/classes/META-INF/MANIFEST.MF
-
-bin/target/classes/META-INF/maven/com.guigarage/java-version-changer/pom.properties
-
-bin/target/classes/META-INF/maven/com.guigarage/java-version-changer/pom.xml
-
-target/classes/META-INF/MANIFEST.MF
-
-target/classes/META-INF/maven/com.guigarage/java-version-changer/pom.properties
-
-target/classes/META-INF/maven/com.guigarage/java-version-changer/pom.xml
+target
